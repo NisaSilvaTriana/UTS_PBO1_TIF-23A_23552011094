@@ -19,5 +19,5 @@ Informasi tentang transaksi keuangan, seperti tanggal, jumlah nominal dan jenis 
 ### 4. Abstraction
 Layanan keuangan adalah kelas abstrak yang berisi metode umum seperti setor() dan tarik(). Metode ini nantinya akan di implementasikan oleh kelas spesifik seperti Tabungan.
 ## Demo Proyek
-- Github:
-- Youtube:
+- Github: https://github.com/NisaSilvaTriana/UTS_PBO1_TIF-23A_23552011094/tree/master
+- Drive: https://drive.google.com/file/d/1E---9pWtdgrE30FEeMHrTEsz6RGAyh8w/view?usp=drive_link
