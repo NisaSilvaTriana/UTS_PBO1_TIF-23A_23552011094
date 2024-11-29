@@ -1,6 +1,6 @@
 # UTS Pemrograman Berorientasi Obyek 1
 - Mata Kuliah : Pemrograman Berorientasi Obyek 1
-- Dosen Pengampu : Muhammad Ikhwan Fatulloh
+- Dosen Pengampu : Muhammad Ikhwan Fathulloh
 ## Profil
 - Nama : Nisa Silva Triana
 - NPM : 23552011094
